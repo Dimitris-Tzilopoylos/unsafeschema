@@ -1,0 +1,7 @@
+tsconfig.json
+node_modules
+package.*
+./error.js
+index.js
+.npmignore
+./index.d.ts

@@ -1,0 +1,21 @@
+{
+  "name": "unsafeschema",
+  "version": "0.0.4",
+  "description": "test",
+  "main": "dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-validation-service": "^1.0.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
